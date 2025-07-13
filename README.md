@@ -26,8 +26,20 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 - [Skin-in-the-game: Decision making via multi-stakeholder alignment in llms](https://arxiv.org/pdf/2405.12933?) by Sel, Bilgehan, Priya Shanmugasundaram, Mohammad Kachuee, Kun Zhou, Ruoxi Jia, and Ming Jin. 2024
 - [Ai safety in generative ai large language models: A survey](https://arxiv.org/pdf/2407.18369?) by Chua, Jaymari, Yun Li, Shiyi Yang, Chen Wang, and Lina Yao. 2024
 - [Mart: Improving llm safety with multi-round automatic red-teaming](https://arxiv.org/pdf/2311.07689) by Ge, Suyu, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, and Yuning Mao. 2023
+- [Aart: Ai-assisted red-teaming with diverse data generation for new llm-powered applications](https://arxiv.org/pdf/2311.08592) by Radharapu, Bhaktipriya, Kevin Robinson, Lora Aroyo, and Preethi Lahoti.  2023
 - [Red teaming language models with language models](https://arxiv.org/pdf/2202.03286) by Perez, Ethan, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides, Amelia Glaese, Nat McAleese, and Geoffrey Irving. 2022
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375) by Glaese, Amelia, Nat McAleese, Maja Trębacz, John Aslanides, Vlad Firoiu, Timo Ewalds, Maribeth Rauh et al. 2022
+- [Adversarial training for high-stakes reliability](https://proceedings.neurips.cc/paper_files/paper/2022/file/3c44405d619a6920384a45bce876b41e-Paper-Conference.pdf) by Ziegler, Daniel, Seraphina Nix, Lawrence Chan, Tim Bauman, Peter Schmidt-Nielsen, Tao Lin, Adam Scherlis et al. 2022
+- [Analyzing dynamic adversarial training data in the limit](https://arxiv.org/pdf/2110.08514) by Wallace, Eric, Adina Williams, Robin Jia, and Douwe Kiela. 2021
+- [Dynabench: Rethinking benchmarking in NLP](https://arxiv.org/pdf/2104.14337) by Kiela, Douwe, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen et al. 2021
 - [Beyond accuracy: Behavioral testing of NLP models with CheckList](https://arxiv.org/pdf/2005.04118) by Ribeiro, Marco Tulio, Tongshuang Wu, Carlos Guestrin, and Sameer Singh.  2020
 - [HateCheck: Functional tests for hate speech detection models](https://arxiv.org/pdf/2012.15606) by Röttger, Paul, Bertram Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts, and Janet B. 2020
+- [Recipes for safety in open-domain chatbots](https://arxiv.org/pdf/2010.07079) by Xu, Jing, Da Ju, Margaret Li, Y-Lan Boureau, Jason Weston, and Emily Dinan. 2020
+- [Counterfactual fairness in text classification through robustness](https://dl.acm.org/doi/pdf/10.1145/3306618.3317950) by Garg, Sahaj, Vincent Perot, Nicole Limtiaco, Ankur Taly, Ed H. Chi, and Alex Beutel. 2019
+- [Avoiding reasoning shortcuts: Adversarial evaluation, training, and model development for multi-hop QA](https://arxiv.org/pdf/1906.07132) by Jiang, Yichen, and Mohit Bansal.  2019
+- [Build it break it fix it for dialogue safety: Robustness from adversarial human attack](https://arxiv.org/pdf/1908.06083) by Dinan, Emily, Samuel Humeau, Bharath Chintagunta, and Jason Weston. 2019
+- [Adversarial NLI: A new benchmark for natural language understanding](https://arxiv.org/pdf/1910.14599) by Nie, Yixin, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, and Douwe Kiela.  2019
 - [The malicious use of artificial intelligence: Forecasting, prevention, and mitigation](https://arxiv.org/pdf/1802.07228) by Brundage, Miles, Shahar Avin, Jack Clark, Helen Toner, Peter Eckersley, Ben Garfinkel, Allan Dafoe et al. 2018
+- [Measuring and mitigating unintended bias in text classification](https://dl.acm.org/doi/pdf/10.1145/3278721.3278729) by Dixon, Lucas, John Li, Jeffrey Sorensen, Nithum Thain, and Lucy Vasserman. 2018
+- [Adversarial examples for evaluating reading comprehension systems](https://arxiv.org/pdf/1707.07328) by Jia, Robin, and Percy Liang. 2017
 - [Concrete problems in AI safety](https://arxiv.org/pdf/1606.06565) by Amodei, Dario, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. 2016
