@@ -11,7 +11,20 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 
 ## Agentic Information Retrieval
 
--[Agentic information retrieval](https://arxiv.org/pdf/2410.09713?) by Zhang, Weinan, Junwei Liao, Ning Li, Kounianhua Du, and Jianghao Lin. 2025
+- [Agentic information retrieval](https://arxiv.org/pdf/2410.09713?) by Zhang, Weinan, Junwei Liao, Ning Li, Kounianhua Du, and Jianghao Lin. 2025
+- [A survey on deep matrix factorizations](https://www.sciencedirect.com/science/article/pii/S1574013721000630?casa_token=X2qx6lyiRwgAAAAA:DDn-5yrnsytdljuWnDKVW0B_xmJGsM67KFR1nosP_37MiozL88O-dfysupN-KenOJ1YX7SDPJQ) by De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. 2021
+- [Deepcf: A unified framework of representation learning and matching function learning in recommender system](https://arxiv.org/pdf/1901.04704) by Deng, Zhi-Hong, Ling Huang, Chang-Dong Wang, Jian-Huang Lai, and Philip S. Yu.  2019
+- [Neural collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569?casa_token=voDsTiXaNKAAAAAA:RCPudBDnAYslj7UDu02FBvZAEN-vgTXy0ttzVpjDOVPi6TiXakxTw3vK18WV0POM8lcZTUh0e8fp) by  He, Xiangnan, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat-Seng Chua. 2017
+- [DeepFM: a factorization-machine based neural network for CTR prediction](https://arxiv.org/pdf/1703.04247) by Guo, Huifeng, Ruiming Tang, Yunming Ye, Zhenguo Li, and Xiuqiang He. 2017
+- [Wide & deep learning for recommender systems](https://dl.acm.org/doi/pdf/10.1145/2988450.2988454) by Cheng, Heng-Tze, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson et al. 2016
+- [Autorec: Autoencoders meet collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/2740908.2742726?casa_token=TPRVrykjKM0AAAAA:eOATJu7QXZu8KoFHwK6Zfbw6PJS1LrTCMDTXzIGKiwW02QHqTwmJDlDqCVoClCDKLYtrvFQBdvSm) by Sedhain, Suvash, Aditya Krishna Menon, Scott Sanner, and Lexing Xie.  2015
+- [Item-based collaborative filtering recommendation algorithms](https://dl.acm.org/doi/pdf/10.1145/371920.372071?casa_token=tJ1WytFOvQYAAAAA:VH6P6CmYuDJQkFZMw-YiD_zqnuJ_sDYXXcvn1QxZXRCe9q13cK6xZJs-gd7UfAv-bzF6vo6OjTYu) by Sarwar, Badrul, George Karypis, Joseph Konstan, and John Riedl. 2001
+- [The probabilistic relevance framework: BM25 and beyond](https://www.nowpublishers.com/article/Details/INR-019) by Robertson, Stephen, and Hugo Zaragoza. 2009
+- [Matrix factorization techniques for recommender systems](https://ieeexplore.ieee.org/document/5197422?denied=) by Koren, Yehuda, Robert Bell, and Chris Volinsky. 2009
+- [Internet advertising and the generalized second-price auction: Selling billions of dollars worth of keywords](https://www.nber.org/system/files/working_papers/w11765/w11765.pdf) by Edelman, Benjamin, Michael Ostrovsky, and Michael Schwarz. 2007
+- [The PageRank citation ranking: Bringing order to the web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) by Page, Lawrence, Sergey Brin, Rajeev Motwani, and Terry Winograd. 1999
+- [Indexing by latent semantic analysis](http://ryanrossi.com/teaching/search/papers/indexing_by_LSA.pdf) by Deerwester, Scott, Susan T. Dumais, George W. Furnas, Thomas K. Landauer, and Richard Harshman. 1990
+- [A statistical interpretation of term specificity and its application in retrieval](https://www.emerald.com/insight/content/doi/10.1108/eb026526/full/html) by Sparck Jones, Karen.  1972
   
 ## Safety and Security
 
@@ -43,3 +56,6 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 - [Measuring and mitigating unintended bias in text classification](https://dl.acm.org/doi/pdf/10.1145/3278721.3278729) by Dixon, Lucas, John Li, Jeffrey Sorensen, Nithum Thain, and Lucy Vasserman. 2018
 - [Adversarial examples for evaluating reading comprehension systems](https://arxiv.org/pdf/1707.07328) by Jia, Robin, and Percy Liang. 2017
 - [Concrete problems in AI safety](https://arxiv.org/pdf/1606.06565) by Amodei, Dario, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mané. 2016
+
+<!-- 7.22 -->
+
