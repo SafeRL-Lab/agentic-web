@@ -1,5 +1,5 @@
-## Agentic Web
 
+<h1 align="center" style="font-size: 30px;"><strong><em>Agentic Web</em></strong>: Designing Intelligent and Autonomous Interactions</h1>
 
 The repository is for *Agentic Web* research, in which we investigate various agentic web studies. If any authors do not want their paper to be listed here, please feel free to contact <shangding.gu@berkeley.edu>. (This repository is under actively development. We appreciate any constructive comments and suggestions)
 
@@ -18,6 +18,21 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Multi-Agent Learning](#multi-agent-learning)
 - [Safety and Security](#safety-and-security)
 
+
+<div align="center">
+    <img src="./docs/figures/web-evolution.png" alt="Logo" width="85%">
+</div>
+<div align="center">
+<b>Figure 1</b>: Web Evolution: From Directories to Agents.
+</div>
+</br>
+
+<div align="center">
+    <img src="./docs/figures/timeline-web-evolution.png" alt="Logo" width="85%">
+</div>
+<div align="center">
+<b>Figure 2</b>: Timeline of Web Evolution: Three Major Eras. Note: These eras are not strictly separated. Transitions occurred gradually, and features of one era often coexisted with the next. Technologies and business models frequently overlapped during these transitions.
+</div>
 
 ## Agentic Web Development
 
