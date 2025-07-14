@@ -31,7 +31,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Deep reinforcement learning for list-wise recommendations](https://arxiv.org/pdf/1801.00209) by Zhao, Xiangyu, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, and Jiliang Tang.  2019
 - [SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets.](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) by Ie, Eugene, Vihan Jain, Jing Wang, Sanmit Narvekar, Ritesh Agarwal, Rui Wu, Heng-Tze Cheng, Tushar Chandra, and Craig Boutilier. 2019
 
-## Agentic Information Retrieval
+## Information Retrieval
 
 - [Agentic information retrieval](https://arxiv.org/pdf/2410.09713?) by Zhang, Weinan, Junwei Liao, Ning Li, Kounianhua Du, and Jianghao Lin. 2025
 - [A survey on deep matrix factorizations](https://www.sciencedirect.com/science/article/pii/S1574013721000630?casa_token=X2qx6lyiRwgAAAAA:DDn-5yrnsytdljuWnDKVW0B_xmJGsM67KFR1nosP_37MiozL88O-dfysupN-KenOJ1YX7SDPJQ) by De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. 2021
