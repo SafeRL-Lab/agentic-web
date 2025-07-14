@@ -50,6 +50,9 @@ You are more than welcome to update this list! If you find a paper about agentic
 
 ## Recommendation
 - [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/pdf/2503.05659) by Zhang, Yu, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, and Yong Li. 2025
+- [A survey on llm-powered agents for recommender systems](https://arxiv.org/pdf/2502.10050?) by Peng, Qiyao, Hongtao Liu, Hua Huang, Qing Yang, and Minglai Shao. 2025
+- [Deep reinforcement learning based resource allocation for network slicing with massive MIMO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10186882) by Yan, Dandan, Benjamin K. Ng, Wei Ke, and Chan-Tong Lam. 2024
+- [Macrec: A multi-agent collaboration framework for recommendation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657669) by Wang, Zhefan, Yuanqing Yu, Wendi Zheng, Weizhi Ma, and Min Zhang. 2024
   
 
 
