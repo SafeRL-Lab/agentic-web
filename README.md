@@ -51,8 +51,12 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Recommendation
 - [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/pdf/2503.05659) by Zhang, Yu, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, and Yong Li. 2025
 - [A survey on llm-powered agents for recommender systems](https://arxiv.org/pdf/2502.10050?) by Peng, Qiyao, Hongtao Liu, Hua Huang, Qing Yang, and Minglai Shao. 2025
+- [AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems](https://arxiv.org/pdf/2505.19623?) by Shang, Yu, Peijie Liu, Yuwei Yan, Zijing Wu, Leheng Sheng, Yuanqing Yu, Chumeng Jiang et al. 2025
 - [Deep reinforcement learning based resource allocation for network slicing with massive MIMO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10186882) by Yan, Dandan, Benjamin K. Ng, Wei Ke, and Chan-Tong Lam. 2024
 - [Macrec: A multi-agent collaboration framework for recommendation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657669) by Wang, Zhefan, Yuanqing Yu, Wendi Zheng, Weizhi Ma, and Min Zhang. 2024
+- [Raserec: Retrieval-augmented sequential recommendation](https://arxiv.org/pdf/2412.18378) by Zhao, Xinping, Baotian Hu, Yan Zhong, Shouzheng Huang, Zihao Zheng, Meng Wang, Haofen Wang, and Min Zhang. 2024
+- [Probing early modification of gravity with Planck, ACT and SPT](https://arxiv.org/pdf/2308.12345) by Abellán, Guillermo Franco, Matteo Braglia, Mario Ballardini, Fabio Finelli, and Vivian Poulin. 2023
+- [SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) by Ie, Eugene, Vihan Jain, Jing Wang, Sanmit Narvekar, Ritesh Agarwal, Rui Wu, Heng-Tze Cheng, Tushar Chandra, and Craig Boutilier. 2019
   
 
 
