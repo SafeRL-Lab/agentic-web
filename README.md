@@ -73,6 +73,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Realm-bench: A real-world planning benchmark for llms and multi-agent systems](https://arxiv.org/pdf/2502.18836) by Geng, Longling, and Edward Y. Chang. 2025
 - [Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS) by Wu, Qingyun, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang et al. 2024
 - [Camel: Communicative agents for" mind" exploration of large language model society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf) by Li, Guohao, Hasan Hammoud, Hani Itani, Dmitrii Khizbullin, and Bernard Ghanem. 2023
+- [Metagpt: Meta programming for multi-agent collaborative framework](https://arxiv.org/pdf/2308.00352) by Hong, Sirui, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang et al. 2023
 
 
 ## Safety and Security
