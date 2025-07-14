@@ -8,6 +8,7 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 
 - fork this repository, add it and merge back;
 - or report an issue here;
+- or email shangding.gu@berkeley.edu
 
 ## Agentic Web Development
 ### Agentic Web
