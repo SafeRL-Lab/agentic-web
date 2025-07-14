@@ -72,8 +72,13 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Multi-Agent Learning
 - [Realm-bench: A real-world planning benchmark for llms and multi-agent systems](https://arxiv.org/pdf/2502.18836) by Geng, Longling, and Edward Y. Chang. 2025
 - [Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS) by Wu, Qingyun, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang et al. 2024
+- [Agentboard: An analytical evaluation board of multi-turn llm agents](https://proceedings.neurips.cc/paper_files/paper/2024/file/877b40688e330a0e2a3fc24084208dfa-Paper-Datasets_and_Benchmarks_Track.pdf) by Chang, Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, and Junxian He. 2024
 - [Camel: Communicative agents for" mind" exploration of large language model society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf) by Li, Guohao, Hasan Hammoud, Hani Itani, Dmitrii Khizbullin, and Bernard Ghanem. 2023
+- [Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors in agents](https://cz5waila03cyo0tux1owpyofgoryroob.itic-sci.com/9C/54/B4/9C54B47616795A320E36FCB1EA595C91.pdf) by Chen, Weize, Yusheng Su, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan et al. 2023
 - [Metagpt: Meta programming for multi-agent collaborative framework](https://arxiv.org/pdf/2308.00352) by Hong, Sirui, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang et al. 2023
+- [Learning to use tools via cooperative and interactive agents](https://arxiv.org/pdf/2403.03031) by Shi, Zhengliang, Shen Gao, Xiuyi Chen, Yue Feng, Lingyong Yan, Haibo Shi, Dawei Yin, Pengjie Ren, Suzan Verberne, and Zhaochun Ren. 2024
+- [Chatdev: Communicative agents for software development](https://arxiv.org/pdf/2307.07924) by Qian, Chen, Wei Liu, Hongzhang Liu, Nuo Chen, Yufan Dang, Jiahao Li, Cheng Yang et al. 2023
+- [Magent: A many-agent reinforcement learning platform for artificial collective intelligence](https://arxiv.org/pdf/1712.00600) by Zheng, Lianmin, Jiacheng Yang, Han Cai, Ming Zhou, Weinan Zhang, Jun Wang, and Yong Yu. 2018
 
 
 ## Safety and Security
