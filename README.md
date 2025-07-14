@@ -61,7 +61,13 @@ You are more than welcome to update this list! If you find a paper about agentic
 
 
 ## Agent Planning
+- [Plangenllms: A modern survey of llm planning capabilities](https://arxiv.org/pdf/2502.11221) by Wei, Hui, Zihao Zhang, Shenghua He, Tian Xia, Shijia Pan, and Fei Liu. 2025
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
+- [Acpbench: Reasoning about action, change, and planning](https://arxiv.org/pdf/2410.05669) by Kokel, Harsha, Michael Katz, Kavitha Srinivas, and Shirin Sohrabi. 2025
+- [Natural plan: Benchmarking llms on natural language planning](https://arxiv.org/pdf/2406.04520) by Zheng, Huaixiu Steven, Swaroop Mishra, Hugh Zhang, Xinyun Chen, Minmin Chen, Azade Nova, Le Hou et al. 2024
+- [Adaplanner: Adaptive planning from feedback with language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/b5c8c1c117618267944b2617add0a766-Paper-Conference.pdf) by Sun, Haotian, Yuchen Zhuang, Lingkai Kong, Bo Dai, and Chao Zhang. 2023
+- [Toolllm: Facilitating large language models to master 16000+ real-world apis](https://arxiv.org/pdf/2307.16789) by Qin, Yujia, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin et al. 2023
+- [Webarena: A realistic web environment for building autonomous agents](https://arxiv.org/pdf/2307.13854) by Zhou, Shuyan, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng et al. 2023
   
 ## Multi-Agent Learning
 - [Realm-bench: A real-world planning benchmark for llms and multi-agent systems](https://arxiv.org/pdf/2502.18836) by Geng, Longling, and Edward Y. Chang. 2025
