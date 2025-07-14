@@ -10,6 +10,15 @@ You are more than welcome to update this list! If you find a paper about agentic
 - or report an issue here;
 - or email shangding.gu@berkeley.edu
 
+**Content**
+- [Agentic Web Development](#agentic-web-development)
+- [Information Retrieval](#information-retrieval)
+- [Recommendation](#recommendation)
+- [Agent Planning](#agent-planning)
+- [Multi-Agent Learning](#multi-agent-learning)
+- [Safety and Security](#safety-and-security)
+
+
 ## Agentic Web Development
 
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
