@@ -11,7 +11,6 @@ You are more than welcome to update this list! If you find a paper about agentic
 - or email shangding.gu@berkeley.edu
 
 ## Agentic Web Development
-### Agentic Web
 
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
 - [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/pdf/2506.18959) by Zhang, Weizhi, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie et al. 2025
@@ -48,6 +47,9 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [The PageRank citation ranking: Bringing order to the web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) by Page, Lawrence, Sergey Brin, Rajeev Motwani, and Terry Winograd. 1999
 - [Indexing by latent semantic analysis](http://ryanrossi.com/teaching/search/papers/indexing_by_LSA.pdf) by Deerwester, Scott, Susan T. Dumais, George W. Furnas, Thomas K. Landauer, and Richard Harshman. 1990
 - [A statistical interpretation of term specificity and its application in retrieval](https://www.emerald.com/insight/content/doi/10.1108/eb026526/full/html) by Sparck Jones, Karen.  1972
+
+## Recommendation
+- [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/pdf/2503.05659) by Zhang, Yu, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, and Yong Li. 2025
   
 ## Safety and Security
 
