@@ -9,6 +9,28 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 - fork this repository, add it and merge back;
 - or report an issue here;
 
+## Web Development
+### Agentic Web
+
+- [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
+- [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/pdf/2506.18959) by Zhang, Weizhi, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie et al. 2025
+- [MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](https://arxiv.org/pdf/2505.20096?) by Nguyen, Thang, Peter Chin, and Yu-Wing Tai. 2025 
+- [Deep Research Agents: A Systematic Examination And Roadmap](https://arxiv.org/pdf/2506.18096) by Huang, Yuxuan, Yihang Chen, Haozheng Zhang, Kang Li, Meng Fang, Linyi Yang, Xiaoguang Li et al. 2025
+- [ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.09891?) by Wang, Shu, Yixiang Fang, Yingli Zhou, Xilin Liu, and Yuchi Ma. 2025
+- [Macrec: A multi-agent collaboration framework for recommendation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657669) by Wang, Zhefan, Yuanqing Yu, Wendi Zheng, Weizhi Ma, and Min Zhang. 2024
+- [Webarena: A realistic web environment for building autonomous agents](https://arxiv.org/pdf/2307.13854) by Zhou, Shuyan, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng et al. 2023
+- [Toolllm: Facilitating large language models to master 16000+ real-world apis](https://arxiv.org/pdf/2307.16789) by Qin, Yujia, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin et al. 2023
+- [Api-bank: A comprehensive benchmark for tool-augmented llms](https://arxiv.org/pdf/2304.08244) by Li, Minghao, Yingxiu Zhao, Bowen Yu, Feifan Song, Hangyu Li, Haiyang Yu, Zhoujun Li, Fei Huang, and Yongbin Li.  2023
+- [React: Synergizing reasoning and acting in language models](https://par.nsf.gov/servlets/purl/10451467) by Yao, Shunyu, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao. 2023
+- [Voyager: An open-ended embodied agent with large language models](https://arxiv.org/pdf/2305.16291) by Wang, Guanzhi, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, and Anima Anandkumar. 2023
+- [Toolformer: Language models can teach themselves to use tools](https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf) by Schick, Timo, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Eric Hambro, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.  2023
+- [Swe-bench: Can language models resolve real-world github issues?](https://arxiv.org/pdf/2310.06770) by Jimenez, Carlos E., John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, and Karthik Narasimhan. 2023
+- [Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face](https://proceedings.neurips.cc/paper_files/paper/2023/file/77c33e6a367922d003ff102ffb92b658-Paper-Conference.pdf) by Shen, Yongliang, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, and Yueting Zhuang. 2023
+- [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf) by Ouyang, Long, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang et al. 2022
+- [Webgpt: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332) by Nakano, Reiichiro, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse et al. 2021
+- [Deep reinforcement learning for list-wise recommendations](https://arxiv.org/pdf/1801.00209) by Zhao, Xiangyu, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, and Jiliang Tang.  2019
+- [SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets.](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf) by Ie, Eugene, Vihan Jain, Jing Wang, Sanmit Narvekar, Ritesh Agarwal, Rui Wu, Heng-Tze Cheng, Tushar Chandra, and Craig Boutilier. 2019
+
 ## Agentic Information Retrieval
 
 - [Agentic information retrieval](https://arxiv.org/pdf/2410.09713?) by Zhang, Weinan, Junwei Liao, Ning Li, Kounianhua Du, and Jianghao Lin. 2025
