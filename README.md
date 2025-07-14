@@ -17,6 +17,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Agent Planning](#agent-planning)
 - [Multi-Agent Learning](#multi-agent-learning)
 - [Safety and Security](#safety-and-security)
+- [Citation](#citation)
 
 
 <div align="center">
