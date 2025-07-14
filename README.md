@@ -9,7 +9,7 @@ You are more than welcome to update this list! If you find a paper about Safe RL
 - fork this repository, add it and merge back;
 - or report an issue here;
 
-## Web Development
+## Agentic Web Development
 ### Agentic Web
 
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
