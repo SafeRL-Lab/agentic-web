@@ -1,7 +1,7 @@
 ## Agentic Web
 
 
-The repository is for *Agentic Web* research, in which we investigate various agentic web studies. If any authors do not want their paper to be listed here, please feel free to contact <gshangd[AT]foxmail.com>. (This repository is under actively development. We appreciate any constructive comments and suggestions)
+The repository is for *Agentic Web* research, in which we investigate various agentic web studies. If any authors do not want their paper to be listed here, please feel free to contact <shangding.gu@berkeley.edu>. (This repository is under actively development. We appreciate any constructive comments and suggestions)
 
 
 You are more than welcome to update this list! If you find a paper about Safe RL which is not listed here, please
