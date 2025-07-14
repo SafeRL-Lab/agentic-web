@@ -138,3 +138,18 @@ You are more than welcome to update this list! If you find a paper about agentic
 
 <!-- 7.22 -->
 
+## Citation
+If you find the repository useful, please cite the study
+``` Bash
+@article{yang2025agentic,
+  title={Agentic Web: Designing Intelligent and Autonomous Interactions},
+  author={Yingxuan Yang and Yuxuan Huang and Mulei Ma and Huacan Chai and
+          Chenyu Gong and Yuanjian Zhou and Ying Wen and Muhao Chen and Ming Jin and
+          Shangding Gu and Meng Fang and Costas Spanos and Yang Yang and
+          Dawn Song and Weinan Zhang and Jun Wang},
+  journal={Github},
+  year={2025}
+}
+
+```
+
