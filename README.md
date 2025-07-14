@@ -18,7 +18,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Multi-Agent Learning](#multi-agent-learning)
 - [Safety and Security](#safety-and-security)
 - [Citation](#citation)
-
+---
 
 <div align="center">
     <img src="./docs/figures/web-evolution.png" alt="Logo" width="85%">
