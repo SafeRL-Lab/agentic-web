@@ -55,8 +55,11 @@ You are more than welcome to update this list! If you find a paper about agentic
 
 ## Agent Planning
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
-- 
   
+## Multi-Agent Learning
+- [Realm-bench: A real-world planning benchmark for llms and multi-agent systems](https://arxiv.org/pdf/2502.18836) by Geng, Longling, and Edward Y. Chang. 2025
+
+
 ## Safety and Security
 
 
