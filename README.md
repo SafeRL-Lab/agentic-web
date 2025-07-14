@@ -51,6 +51,12 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Recommendation
 - [A survey of large language model empowered agents for recommendation and search: Towards next-generation information retrieval](https://arxiv.org/pdf/2503.05659) by Zhang, Yu, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, and Yong Li. 2025
   
+
+
+## Agent Planning
+- [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
+- 
+  
 ## Safety and Security
 
 
