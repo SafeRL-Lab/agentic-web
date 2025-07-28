@@ -118,6 +118,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Red-teaming llm multi-agent systems via communication attacks](https://arxiv.org/pdf/2502.14847) by He, Pengfei, Yupin Lin, Shen Dong, Han Xu, Yue Xing, and Hui Liu. 2025
 - [Skin-in-the-game: Decision making via multi-stakeholder alignment in llms](https://arxiv.org/pdf/2405.12933?) by Sel, Bilgehan, Priya Shanmugasundaram, Mohammad Kachuee, Kun Zhou, Ruoxi Jia, and Ming Jin. 2024
 - [Ai safety in generative ai large language models: A survey](https://arxiv.org/pdf/2407.18369?) by Chua, Jaymari, Yun Li, Shiyi Yang, Chen Wang, and Lina Yao. 2024
+- [Agent-safetybench: Evaluating the safety of llm agents](https://arxiv.org/pdf/2412.14470) by Zhang, Zhexin, Shiyao Cui, Yida Lu, Jingzhuo Zhou, Junxiao Yang, Hongning Wang, and Minlie Huang.
 - [Mart: Improving llm safety with multi-round automatic red-teaming](https://arxiv.org/pdf/2311.07689) by Ge, Suyu, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, and Yuning Mao. 2023
 - [Aart: Ai-assisted red-teaming with diverse data generation for new llm-powered applications](https://arxiv.org/pdf/2311.08592) by Radharapu, Bhaktipriya, Kevin Robinson, Lora Aroyo, and Preethi Lahoti.  2023
 - [Red teaming language models with language models](https://arxiv.org/pdf/2202.03286) by Perez, Ethan, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides, Amelia Glaese, Nat McAleese, and Geoffrey Irving. 2022
