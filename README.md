@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 30px;"><strong><em>Agentic Web</em></strong>: Designing Intelligent and Autonomous Interactions</h1>
+<h1 align="center" style="font-size: 30px;"><strong><em>Agentic Web</em></strong>: Weaving the Next Web with AI Agents</h1>
 
 The repository is for *Agentic Web* research, in which we investigate various agentic web studies. If any authors do not want their paper to be listed here, please feel free to contact <shangding.gu@berkeley.edu>. (This repository is under actively development. We appreciate any constructive comments and suggestions)
 
