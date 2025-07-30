@@ -147,6 +147,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [Workarena: How capable are web agents at solving common knowledge work tasks?](https://arxiv.org/pdf/2403.07718) by Drouin, Alexandre, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert et al.  2024
 - [The browsergym ecosystem for web agent research](https://arxiv.org/pdf/2412.05467) by Chezelles, De, Thibault Le Sellier, Sahar Omidi Shayegan, Lawrence Keunho Jang, Xing Han Lù, Ori Yoran, Dehan Kong et al. 2024
 - [St-webagentbench: A benchmark for evaluating safety and trustworthiness in web agents](https://arxiv.org/pdf/2410.06703) by Levy, Ido, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, and Segev Shlomov. 2024
+- [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) by Yuan, Tongxin, Zhiwei He, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu et al. 2024
 
 
 ## Citation
