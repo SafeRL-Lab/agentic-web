@@ -156,8 +156,8 @@ If you find the repository useful, please cite the study
 ``` Bash
 @article{yang2025agentic,
   title={Agentic Web: Weaving the Next Web with AI Agents},
-  author={Yingxuan Yang and Mulei Ma and Yuxuan Huang and Huacan Chai and Chenyu Gong and Haoran Geng and Yuanjian Zhou and Ying Wen and Meng Fang and Muhao Chen and Shangding Gu and Ming Jin and Costas Spanos and Yang Yang and Pieter Abbeel and Dawn Song and Weinan Zhang and Jun Wang},
-  journal={Arxiv},
+  author={Yang, Yingxuan and Ma, Mulei and Huang, Yuxuan and Chai, Huacan and Gong, Chenyu and Geng, Haoran and Zhou, Yuanjian and Wen, Ying and Fang, Meng and Chen, Muhao and others},
+  journal={arXiv preprint arXiv:2507.21206},
   year={2025}
 }
 
