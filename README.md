@@ -5,7 +5,7 @@
 
 <sup>**1**</sup>Shanghai Jiao Tong University   <sup>**2**</sup>The Hong Kong University of Science and Technology, Guangzhou   <sup>**3**</sup>University of Liverpool   <sup>**4**</sup>University of California, Berkeley   <sup>**5**</sup>Shanghai Innovation Institute   <sup>**6**</sup>University of California, Davis   <sup>**7**</sup>Virginia Tech   <sup>**8**</sup>University College London
 
-\*Equal corresponding authors.
+\* Corresponding authors.
 
 ---
 
