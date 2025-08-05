@@ -68,6 +68,12 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Information Retrieval
 
 - [Agentic information retrieval](https://arxiv.org/pdf/2410.09713?) by Zhang, Weinan, Junwei Liao, Ning Li, Kounianhua Du, and Jianghao Lin. 2025
+- [Large language models for generative information extraction: A survey](https://link.springer.com/content/pdf/10.1007/s11704-024-40555-y.pdf) by Xu, Derong, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Yang Wang, and Enhong Chen. 2024
+- [Bias and unfairness in information retrieval systems: New challenges in the llm era](https://dl.acm.org/doi/pdf/10.1145/3637528.3671458) by Dai, Sunhao, Chen Xu, Shicheng Xu, Liang Pang, Zhenhua Dong, and Jun Xu. 2024
+- [Retrieval-augmented code generation for universal information extraction](https://arxiv.org/pdf/2311.02962) by Guo, Yucan, Zixuan Li, Xiaolong Jin, Yantao Liu, Yutao Zeng, Wenxuan Liu, Xiang Li et al. 2024
+- [Large language models for information retrieval: A survey](https://arxiv.org/pdf/2308.07107) by Zhu, Yutao, Huaying Yuan, Shuting Wang, Jiongnan Liu, Wenhan Liu, Chenlong Deng, Haonan Chen, Zheng Liu, Zhicheng Dou, and Ji-Rong Wen. 2023
+- [Inpars-v2: Large language models as efficient dataset generators for information retrieval](https://arxiv.org/pdf/2301.01820) by Jeronymo, Vitor, Luiz Bonifacio, Hugo Abonizio, Marzieh Fadaee, Roberto Lotufo, Jakub Zavrel, and Rodrigo Nogueira. 2023
+- [Unified structure generation for universal information extraction](https://arxiv.org/pdf/2203.12277) by Lu, Yaojie, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun, and Hua Wu. 2022
 - [An Adversarial Imitation Click Model for Information Retrieval](https://dl.acm.org/doi/pdf/10.1145/3442381.3449913?casa_token=uxTFt1GHdzYAAAAA:oYcBl_NFP7Rx-rB1c6Ol_aGVykWPtWWBUmkjuulSP_eEONMgYsnJJOJRHobEUI5aTic8j88fz7qd) by Dai, Xinyi, Jianghao Lin, Weinan Zhang, Shuai Li, Weiwen Liu, Ruiming Tang, Xiuqiang He, Jianye Hao, Jun Wang, and Yong Yu. 2021
 - [A survey on deep matrix factorizations](https://www.sciencedirect.com/science/article/pii/S1574013721000630?casa_token=X2qx6lyiRwgAAAAA:DDn-5yrnsytdljuWnDKVW0B_xmJGsM67KFR1nosP_37MiozL88O-dfysupN-KenOJ1YX7SDPJQ) by De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. 2021
 - [Deepcf: A unified framework of representation learning and matching function learning in recommender system](https://arxiv.org/pdf/1901.04704) by Deng, Zhi-Hong, Ling Huang, Chang-Dong Wang, Jian-Huang Lai, and Philip S. Yu.  2019
