@@ -47,6 +47,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Agentic Web Development
 
 - [Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572) by Erdogan, Lutfi Eren, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, and Amir Gholami. 2025
+- [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/pdf/2505.22648) by Wu, Jialong, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Dingchu Zhang et al. 2025
 - [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/pdf/2506.18959) by Zhang, Weizhi, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie et al. 2025
 - [MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](https://arxiv.org/pdf/2505.20096?) by Nguyen, Thang, Peter Chin, and Yu-Wing Tai. 2025 
 - [Deep Research Agents: A Systematic Examination And Roadmap](https://arxiv.org/pdf/2506.18096) by Huang, Yuxuan, Yihang Chen, Haozheng Zhang, Kang Li, Meng Fang, Linyi Yang, Xiaoguang Li et al. 2025
