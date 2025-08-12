@@ -174,6 +174,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 ## Benchmark
 
 - [Safearena: Evaluating the safety of autonomous web agents](https://arxiv.org/pdf/2503.04957) by Tur, Ada Defne, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, Spandana Gella, Karolina Stańczak, and Siva Reddy. 2025
+- [An Illusion of Progress? Assessing the Current State of Web Agents](https://arxiv.org/pdf/2504.01382) by Xue, Tianci, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, and Yu Su. 2025
 - [Workarena: How capable are web agents at solving common knowledge work tasks?](https://arxiv.org/pdf/2403.07718) by Drouin, Alexandre, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert et al.  2024
 - [The browsergym ecosystem for web agent research](https://arxiv.org/pdf/2412.05467) by Chezelles, De, Thibault Le Sellier, Sahar Omidi Shayegan, Lawrence Keunho Jang, Xing Han Lù, Ori Yoran, Dehan Kong et al. 2024
 - [St-webagentbench: A benchmark for evaluating safety and trustworthiness in web agents](https://arxiv.org/pdf/2410.06703) by Levy, Ido, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, and Segev Shlomov. 2024
