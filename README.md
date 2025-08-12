@@ -177,9 +177,11 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [An Illusion of Progress? Assessing the Current State of Web Agents](https://arxiv.org/pdf/2504.01382) by Xue, Tianci, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, and Yu Su. 2025
 - [Workarena: How capable are web agents at solving common knowledge work tasks?](https://arxiv.org/pdf/2403.07718) by Drouin, Alexandre, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert et al.  2024
 - [The browsergym ecosystem for web agent research](https://arxiv.org/pdf/2412.05467) by Chezelles, De, Thibault Le Sellier, Sahar Omidi Shayegan, Lawrence Keunho Jang, Xing Han Lù, Ori Yoran, Dehan Kong et al. 2024
+- [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://arxiv.org/pdf/2407.15711) by Yoran, Ori, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, and Jonathan Berant. 2024
 - [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/pdf/2401.13649) by Koh, Jing Yu, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, and Daniel Fried. 2024
 - [St-webagentbench: A benchmark for evaluating safety and trustworthiness in web agents](https://arxiv.org/pdf/2410.06703) by Levy, Ido, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, and Segev Shlomov. 2024
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) by Yuan, Tongxin, Zhiwei He, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu et al. 2024
+- [Webcanvas: Benchmarking web agents in online environments](https://arxiv.org/pdf/2406.12373) by Pan, Yichen, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu et al. 2024
 - [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919) by He, Hongliang, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, and Dong Yu. 2024
 - [Webshop: Towards scalable real-world web interaction with grounded language agents](https://proceedings.neurips.cc/paper_files/paper/2022/file/82ad13ec01f9fe44c01cb91814fd7b8c-Paper-Conference.pdf) by Yao, Shunyu, Howard Chen, John Yang, and Karthik Narasimhan. 2022
 
