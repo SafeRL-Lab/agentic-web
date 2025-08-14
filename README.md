@@ -183,6 +183,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) by Yuan, Tongxin, Zhiwei He, Lingzhong Dong, Yiming Wang, Ruijie Zhao, Tian Xia, Lizhen Xu et al. 2024
 - [Webcanvas: Benchmarking web agents in online environments](https://arxiv.org/pdf/2406.12373) by Pan, Yichen, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu et al. 2024
 - [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/pdf/2401.13919) by He, Hongliang, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, and Dong Yu. 2024
+- [Mind2web: Towards a generalist agent for the web](https://arxiv.org/pdf/2306.06070) by Deng, Xiang, Yu Gu, Boyuan Zheng, Shijie Chen, Sam Stevens, Boshi Wang, Huan Sun, and Yu Su. 2023
 - [Webshop: Towards scalable real-world web interaction with grounded language agents](https://proceedings.neurips.cc/paper_files/paper/2022/file/82ad13ec01f9fe44c01cb91814fd7b8c-Paper-Conference.pdf) by Yao, Shunyu, Howard Chen, John Yang, and Karthik Narasimhan. 2022
 
 
