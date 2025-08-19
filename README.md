@@ -54,6 +54,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 - [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/pdf/2506.18959) by Zhang, Weizhi, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie et al. 2025
 - [MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](https://arxiv.org/pdf/2505.20096?) by Nguyen, Thang, Peter Chin, and Yu-Wing Tai. 2025 
 - [Deep Research Agents: A Systematic Examination And Roadmap](https://arxiv.org/pdf/2506.18096) by Huang, Yuxuan, Yihang Chen, Haozheng Zhang, Kang Li, Meng Fang, Linyi Yang, Xiaoguang Li et al. 2025
+- [Smartagent: Chain-of-user-thought for embodied personalized agent in cyber world](https://arxiv.org/pdf/2412.07472) by Zhang, Jiaqi, Chen Gao, Liyuan Zhang, Yong Li, and Hongzhi Yin. 2025
 - [ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.09891?) by Wang, Shu, Yixiang Fang, Yingli Zhou, Xilin Liu, and Yuchi Ma. 2025
 - [Macrec: A multi-agent collaboration framework for recommendation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657669) by Wang, Zhefan, Yuanqing Yu, Wendi Zheng, Weizhi Ma, and Min Zhang. 2024
 - [Webarena: A realistic web environment for building autonomous agents](https://arxiv.org/pdf/2307.13854) by Zhou, Shuyan, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng et al. 2023
