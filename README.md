@@ -201,7 +201,5 @@ If you find the repository useful, please cite the study
 ```
 
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SafeRL-Lab/agentic-web&type=Date)](https://www.star-history.com/#SafeRL-Lab/agentic-web&Date)
 
