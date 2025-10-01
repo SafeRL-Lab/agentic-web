@@ -45,6 +45,8 @@ You are more than welcome to update this list! If you find a paper about agentic
 </div>
 
 ## Agentic Web Development
+
+- [BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web](https://arxiv.org/pdf/2508.13787?) by Guo, Zihan, Yuanjian Zhou, Chenyi Wang, Linlin You, Minjie Bian, and Weinan Zhang. 2025
 - [A Survey of AI Agent Registry Solutions](https://arxiv.org/pdf/2508.03095) by Aditi Singh, Abul Ehtesham, Ramesh Raskar, Mahesh Lambe, Pradyumna Chari, Jared James Grogan, Abhishek Singh, Saket Kumar. 2025
 - [Using the NANDA Index Architecture in Practice: An Enterprise Perspective](https://www.arxiv.org/pdf/2508.03101) by Sichao Wang, Ramesh Raskar, Mahesh Lambe, Pradyumna Chari, Rekha Singhal, Shailja Gupta, Rajesh Ranjan, Ken Huang. 2025
 - [Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges](https://arxiv.org/pdf/2508.02773) by Yiming Shen, Jiashuo Zhang, Zhenzhe Shao, Wenxuan Luo, Yanlin Wang, Ting Chen, Zibin Zheng, Jiachi Chen. 2025
