@@ -176,6 +176,7 @@ You are more than welcome to update this list! If you find a paper about agentic
 
 ## Benchmark
 
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) by Zhang, Yuxuan, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen. 2026
 - [Safearena: Evaluating the safety of autonomous web agents](https://arxiv.org/pdf/2503.04957) by Tur, Ada Defne, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, Spandana Gella, Karolina Stańczak, and Siva Reddy. 2025
 - [An Illusion of Progress? Assessing the Current State of Web Agents](https://arxiv.org/pdf/2504.01382) by Xue, Tianci, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, and Yu Su. 2025
 - [Workarena: How capable are web agents at solving common knowledge work tasks?](https://arxiv.org/pdf/2403.07718) by Drouin, Alexandre, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert et al.  2024
